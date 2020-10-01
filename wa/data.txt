@@ -1,0 +1,1 @@
+{"first": {"Company": ["NoseCone Technologies Inc.", "yes", "https://www.thesmartcone.com/", "Experienced Software Engineer", "https://ca.indeed.com/viewjob?jk=ae2a14acdc7258ba", null, null], "didApply": ["Hatchways", "yes", "https://ca.indeed.com/viewjob?jk=c71fd8608152d5d3", "Jr. Software Developer", "none", "none"]}}
