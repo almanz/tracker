@@ -1,0 +1,18 @@
+﻿Objective:
+
+
+Create a python program that keeps track of job applications. This would be expanded upon to include things such as filtering,
+loading new data in, etc.
+Git:
+https://github.com/almanz/tracker.git
+Pep8 guidelines:
+https://www.python.org/dev/peps/pep-0008/
+
+
+
+Data Dimensions:
+["Company", "didApply", "Website", "Job Title", "appLink", "Resume", "Extras"]
+
+
+Note:
+The objective may change as the project grows.
